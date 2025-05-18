@@ -5,4 +5,4 @@
 4 - run main.py
 5 - good time :)
 ```
-![IMG_4940](https://github.com/rozhanf/calculator/blob/main/Screenshot%20(4).png)
+![IMG_4940](https://github.com/amirsolo2005/calculator/blob/main/Untitled.png)
